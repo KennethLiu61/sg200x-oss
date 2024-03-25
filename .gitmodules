@@ -1,0 +1,9 @@
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
+[submodule "flatbuffers"]
+	path = flatbuffers
+	url = https://github.com/google/flatbuffers.git
+[submodule "opencv"]
+	path = opencv
+	url = git@github.com:opencv/opencv.git
